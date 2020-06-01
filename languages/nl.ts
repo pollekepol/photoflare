@@ -130,7 +130,7 @@
         <location filename="src/gradientdialog.ui" line="277"/>
         <location filename="src/gradientdialog.ui" line="351"/>
         <source>Opacity:</source>
-        <translation>Matheid</translation>
+        <translation>Transparantie</translation>
     </message>
     <message>
         <location filename="src/gradientdialog.ui" line="290"/>
@@ -195,7 +195,7 @@
     <message>
         <location filename="src/LineSettingsWidget.ui" line="55"/>
         <source>Opacity</source>
-        <translation>Matheid</translation>
+        <translation>Transparantie</translation>
     </message>
     <message>
         <location filename="src/LineSettingsWidget.ui" line="83"/>
@@ -1147,7 +1147,7 @@
     <message>
         <location filename="src/mainwindow.ui" line="2050"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation type="Transparantie"></translation>
     </message>
     <message>
         <location filename="src/mainwindow.ui" line="2055"/>
@@ -2087,7 +2087,7 @@
     <message>
         <location filename="src/dialogs/batchdialog.cpp" line="67"/>
         <source>Opacity</source>
-        <translation type="unfinished"></translation>
+        <translation type="Transparantie"></translation>
     </message>
     <message>
         <location filename="src/dialogs/batchdialog.cpp" line="97"/>
